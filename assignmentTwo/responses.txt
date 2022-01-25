@@ -1,16 +1,11 @@
-A day 
-drunk with the nectar of
-slowness
-weaves its way between
-the years
-to find itself at the flophouse
-of night
-to sleep and be seen
-no more.
+1) What is a directory, and what is its relationship to files?
 
-Will I be less
-dead because I wrote this
-poem or you more because
-you read it
-long years hence.
-- Maya Angelou
+A directory is is like a folder that holds files. It is important to follow a certain structure within the directory in order to keep things organized.
+
+2) How are VCS useful?
+
+It allows you to save a version of your project at any given moment, thereby allowing you to look back on previous versions you have created without losing information that may be vital to the process.
+
+3) Do you have a favorite artistic medium? Why is it your favorite?
+
+My favorite medium of art to work with, that I have dicovered thus far, is jewelry making. It has allowed me to find a memditative space while also creating something that I can go on later to sell. The selling of my product allows for a cycle of acquiring more materials to keep my hobby going and to maintain a sense of being creatively inspired!
