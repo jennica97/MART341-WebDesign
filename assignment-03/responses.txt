@@ -1,0 +1,11 @@
+1. What is the relationship between an IP address and the DNS?
+     In short, the DNS translates domain names to IP addresses
+     so that Internet resources can be loaded by browsers.
+2. What is a cookie?
+     Cookies are files that a website creates in order to save information about
+     the user using the website in order to make the experience of using the
+     site easier.
+3. What are the three essential parts of a URL?
+  - the scheme: “http”
+  - the domain name: “www.example.com”
+  - the port: “90”
