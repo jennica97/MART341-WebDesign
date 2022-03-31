@@ -1,0 +1,1 @@
+My experience with html has been pretty much all new to me. I did not know anything about how code was written to build websites. My mind has been expanded on this for sure, and I have a new appreciation for how much thought, effort, and time goes into planning a website. I am excited to get into the more artistic side of the design process in css!
