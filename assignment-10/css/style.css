@@ -1,0 +1,35 @@
+li {display: inline;
+border: 2px solid #F5F5DC;
+border-radius: 13%;
+padding-right: 30px;}
+nav {background-color: #008080;
+padding:1.5%;
+font-size: 28px;
+text-align: right;
+border: 5px solid black;}
+  body {background-color: #F5F5DC;
+        font-family: Didot;}
+  h1 {color: black}
+  h2 {font-size:40px;}
+  .normal_block {
+    background-color: #008080;
+    width: 700px;
+    margin: auto;
+    padding: 105px;
+    border: 5px solid black;
+    text-align: center;}
+.home_page_images{
+  width:400px;
+margin:auto;
+  margin-left:1em;
+  margin-right:1em;
+  margin-top:1em;
+  margin-bottom:1em;
+ display:inline-block;}
+.images_block{text-align:center;}
+#necklaces-display{width:820px;}
+#logo{border: 5px solid black;}
+.contact-block{background-color: #F5F5DC;
+border: 5px solid black;
+font-size: 30px;}
+.header-typeface{font-family: KeepOnTruckin;}
