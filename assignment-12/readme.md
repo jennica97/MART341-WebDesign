@@ -1,0 +1,1 @@
+A margin is the space around an element's border, while padding is the space between an element's border and the element's content So if you were looking at it from the inside out the order would be: content: padding: border: margin.
