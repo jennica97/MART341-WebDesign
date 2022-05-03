@@ -1,0 +1,205 @@
+li {
+display: inline;
+border: 2px solid #F5F5DC;
+border-radius: 13%;
+padding-right: 30px;
+}
+
+header {
+background-color: #008080;
+padding:4.5%;
+font-size: 28px;
+text-align: right;
+border: 5px solid black;
+}
+
+body {background-color: #F5F5DC;
+        font-family: Didot;}
+h1{
+  color: black
+}
+h2{
+  font-size:40px;
+}
+
+/*
+.dropdown{
+  display: inline-block;
+}
+.dropdown-content{
+    display: none;
+    margin: 0.5em 0 0 -1em;
+    color: #000;
+    background-color: #fff;
+    z-index: 1;
+    border-radius: 0em 0em 1em 1em;
+    text-align: right;
+    float: right;
+    margin-top: 5em;
+}
+.dropdown-item {
+    display: block;
+    text-align: left;
+    margin: 0;
+    padding: 0.5em 1em 0.5em 1em;
+    min-width: 5.9em;
+}
+
+.dropdown:hover .dropdown-content{
+  display: block;
+}
+
+*/
+
+.categories_block{
+    background-color: #008080;
+    width: 30%;
+    margin: auto;
+    padding: 1.5%;
+    border: 5px solid black;
+    text-align: center;
+}
+
+.home_page_images{
+    width:400px;
+    margin:auto;
+    margin-left:1em;
+    margin-right:1em;
+    margin-top:1em;
+    margin-bottom:1em;
+    display:inline-block;
+}
+
+.images_block{
+  text-align:center;
+}
+
+
+#logo{
+  border: 5px solid black;
+}
+
+#instagram-logo-large{
+  z-index:5;
+  position: absolute;
+  top: 210px; left: 675px;
+  display: none;
+}
+
+.contact-block{
+  background-color: #F5F5DC;
+  border: 5px solid black;
+  font-size: 30px;
+}
+
+.header-typeface{
+  font-family: KeepOnTruckin;
+  font-size: 27px;
+}
+
+.image-header-text{
+    font-family: KeepOnTruckin;
+    font-size: 27px;
+}
+
+#top_left{
+  position: absolute;
+  left: 31%;
+  top: 49%;
+}
+
+#top_right{
+  position: absolute;
+  right: 31%;
+  top: 49%;
+  display: inline-block;
+}
+
+#bottom_left{
+  position: absolute;
+  left: 31%;
+  top: 111%;
+}
+
+#bottom_right{
+  position: absolute;
+  right: 31%;
+  top: 111%;
+  display: inline-block;
+}
+
+#bottom_right2{
+  position: absolute;
+  right: 31%;
+  top: 173%;
+  display: inline-block;
+}
+
+#bottom_left2{
+  position: absolute;
+  left: 31%;
+  top: 173%;
+}
+
+#instagram:hover .header-typeface.home {
+  opacity:25%;
+}
+
+#instagram:hover #instagram-logo-large{
+  display:block;
+}
+
+#contact-promo .normal_block{
+  border: 5px solid black;
+}
+
+/* Earrings Div */
+#earrings {
+  z-index: 2;
+  position: fixed;
+  margin-top: 10%;
+  background-color: #F5F5DC;
+  margin: auto;
+  width: 33%;
+  
+
+}
+
+/* Add a dropdown feature: */
+.dropdown {
+    position: absolute;
+    right: 20px;
+    top: 40px;
+    font-family: KeepOnTruckin;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    margin: 2.5em 0 0 -4em;
+    color: #000;
+    background-color: #F5F5DC;
+    z-index: 1;
+    border: 5px solid black;
+}
+
+.dropdown-content a {
+    color: #000;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+/* Style dropdown item display: */
+.dropdown-item {
+    display: block;
+    margin: -1;
+    padding: 0.5em 1em 0.5em 1em;
+    min-width: 5.9em;
+}
+
+.dropdown-item:hover, .dropdown-item:hover a {
+    color: #F5F5DC;
+    background-color: #008080;
+}
